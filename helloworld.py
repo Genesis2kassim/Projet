@@ -7,3 +7,4 @@ y =14
 
 print(x + y)
 print(x//y)
+print(x * y)
